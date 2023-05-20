@@ -14,7 +14,6 @@ Key indicators that may raise suspicion include sudden large transactions, multi
 
 git link : https://github.com/VinodVelayudan/CreditCardFraudDetection.git
 
-
 2. Download the Dataset that will be used to train a transaction classifier. Unzip it and put the content (creditcard.csv) under main folder (Credit-Card-Fraud-Detection)
  
  Dataset link : https://www.kaggle.com/datasets/mlg-ulb/creditcardfraud
